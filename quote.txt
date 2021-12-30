@@ -11,3 +11,5 @@ If you can dream it, you can do it - Disney
 Adding to check git stash
 
 Also added this like to check if this can work in git stash.
+
+These changes are for git stash on remote.
